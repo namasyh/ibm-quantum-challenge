@@ -35,14 +35,6 @@ info:
 (Nov 11 - Nov 18)
 
 I completed all four labs form IBM Quantum Challenge Fall 2022 ( Advance Level Badge)
-
-✅Lab1 - Introduction to Primitives on Qiskit Runtime
-
-✅Lab 2 Quantum Kernel Learning with Qiskit Runtime
-
-✅Lab 3 Optimization with Qiskit Primitives
-
-✅Lab 4 Quantum chemistry with Qiskit Primitives
 ## Challenge content
 
 |     | QC Problem        | Details                                                                                                                                         |
